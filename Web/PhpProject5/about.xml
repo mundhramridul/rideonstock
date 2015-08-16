@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet type="text/xsl" href="about.xsl"?>
+<aboutus>
+	<vision>
+	Start with a growing market. Swim in a stream that becomes a river and ultimately an ocean. Be a leader in that market, not a follower, and constantly build the best products possible."
+	</vision>
+	<feature>
+	
+	<phase>	Live charts of SENSEX, NIFTY and Dollor-Rupee (data updated frequently).</phase>
+	<phase1>Single Page Website.</phase1>
+	</feature>
+	<feature>
+	<phase1>Expert View for both Intraday and Long Term Investment.</phase1>
+	<phase>NEWS update column.</phase></feature>
+	<feature>
+	<phase>Search a share or company.</phase>
+	<phase1>Current Price, Open Price, Previous Close, Percentage change for each company</phase1>
+	</feature>
+	<feature>
+	<phase1>Add to Watchlist option for each Company.</phase1>
+	<phase>Previous Records.</phase></feature>
+	<feature>
+	<phase1>About Option (Using XML) for each Company.</phase1>
+	<phase>Crawling.</phase></feature>
+	<feature>
+	<phase1>Action in Company.</phase1>
+	<phase>Top Loser and Top Gainer.</phase></feature>
+	<feature>
+	<phase>	Live updates of SENSEX, NIFTY and Dollor-Rupee.</phase>
+	<phase1>Percentage increase or decrease in Sensex, Nifty and Dollor-Rupee.</phase1></feature>
+	<feature>
+	<phase>User login to trade.</phase>
+	<phase1>Watchlist.</phase1></feature>
+	<feature>
+	<phase>Graphs related to shares.</phase>
+	<phase1>Graphs for each company.</phase1></feature>
+	<feature>
+	<phase>Feedback.</phase>
+	<phase1>Side links for all companies.</phase1></feature>
+	<feature>
+	<phase>Video Links.</phase>
+	<phase1>About Us Using XML.</phase1></feature>
+	<feature>
+	<phase>Price of any company on any day.</phase>
+	<phase1>A link to Company Official Website.</phase1></feature>
+	<feature>
+	<phase> Validations.</phase>
+	<phase1>Single click scroll down to any Company.</phase1></feature>
+</aboutus>

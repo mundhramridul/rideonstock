@@ -1,0 +1,405 @@
+﻿body{
+
+font-family: Century Gothic, Comic Sans MS;
+
+margin: 0px auto;
+text-align: center;
+}
+
+
+
+#header
+{ position: fixed;
+ z-index:101;
+}
+#header #flash
+{ 
+  margin: 0px;
+ left: 130px;
+ position: fixed;
+ z-index:101;
+
+  
+}
+
+#header #start
+{  position: absolute;
+   font:  40px "Lucida Handwriting";
+  color: orange;
+  float: left;
+  margin-left: 230px;
+}
+
+#header #skate
+{ 
+
+margin-top:10px; 
+
+  margin-left: 600px;
+  position:absolute;
+  width: 1000px;
+  color: orange;
+}
+
+
+#header #move
+{
+background: url(bg2.jpg);
+	width: 1500px;
+	height: 100px;
+	margin:auto;
+position :absolute;
+}
+
+
+#header #menu{
+width: 1200px;
+height: 40px; 
+text-align: left;
+margin: 50px ;
+margin-left: 130px;
+background-color: #FF0000;
+font-size: 16px;
+font-weight: bold;
+box-shadow: 0px 5px 5px #CCCCCC;
+opacity: 0.7;
+position: absolute;
+word-spacing: 30px;
+}
+
+#header #menu a{
+color: #FFFFFF;
+text-decoration: none;
+top: 10px;
+font-size:20px;
+position: relative;
+}
+
+#header #menu a:hover{
+background-color: #000000;
+padding: 10px;
+}
+
+#header #search
+{ width: 600px;
+  margin: 25px auto; 
+  position: absolute;
+}
+
+#header #search .input
+{  margin: 25px auto;
+  width: 248px;
+  padding: 5px 8px;
+  font: 14px Comic Sans MS;
+  background: #FFFFFF;
+  color: #000000;
+  height: 28px;
+  position: absolute;
+  margin-left: 210px;
+}
+#header #search .submit
+{  display: block;
+  margin: 25px auto;
+  cursor: pointer;
+  background: url(s.png) 0 0 no-repeat;
+  width: 100px;
+  height: 40px;
+ margin-left: 760px;
+position: absolute;
+}
+#header #search #searchbox
+{ background: #000000;
+display: none;
+overflow: auto;
+position: absolute;
+ width: 330px;
+z-index: 99;
+ margin-left: 210px;
+margin: 25px auto;
+}
+#slide-box
+{ width: 1200px;
+height: 500px; 
+text-align: left;
+font-weight: bold;
+position: absolute;
+margin: 100px auto;
+margin-left: 130px;
+z-index:100;
+}
+
+
+#mainbox
+{ width: 1200px;
+height: 420px; 
+background-color: #D0D0D0;
+font-weight: bold;
+box-shadow: 0px 2px 2px #ffffff;
+position: absolute;
+margin-left: 130px;
+margin-top: 607px;
+}
+
+#box1
+{ width: 380px;
+height: 380px; 
+
+background : url(rbox1.png);
+font-weight: bold;
+position: absolute;
+margin-top: 20px;
+margin-left: 10px;
+}
+
+#box2{ width: 380px;
+height: 380px; 
+
+background : url(rbox1.png);
+font-weight: bold;
+position: absolute;
+margin-left :410px;
+margin-top: 20px;
+}
+
+#box3
+{ width: 380px;
+height: 380px;
+
+background : url(rbox1.png);
+font-weight: bold;
+position: absolute;
+margin-left: 810px;
+margin-top: 20px;
+}
+
+#share-info {
+
+text-align:left;
+padding-bottom: 2px;
+	}
+
+	
+
+ #share-info h4 {
+
+		color: #ffffff;
+
+		font:  47px "Lucida Handwriting";
+margin: 10px auto;		
+
+			}
+
+#chart_div1
+{
+	 left: 10px;
+}
+#chart_div2
+{
+	 
+	 left: 10px;
+}
+#chart_div3
+{
+	 
+	 left: 10px;
+}
+
+#mar
+{ position: absolute;
+  color: red;
+  margin: 1025px auto;
+  
+}  
+#mar a {
+		color: #0033CC;
+
+		text-decoration: underline;
+
+	}
+
+#last
+{ 
+}
+	
+#last #lft
+{  margin-top: 1075px;
+width: 29.16%;	
+ height: 540px;
+position: absolute;
+border-right:dotted;
+  border-right-width: thick;
+  border-right-color: antiquewhite;
+left: 118px;
+	}
+	
+#last #centr
+{  margin: 1075px auto;
+width: 31%;
+	
+ height: 550px;
+position: absolute;
+border-right:dotted;
+  border-right-width: thick;
+  border-right-color: antiquewhite;
+	left: 480px;
+}
+
+#last #rght
+{  margin: 1075px auto;
+  width: 29.16%;
+  height: 550px;
+position: absolute;
+left: 853.5px;
+}
+
+#last #rght #video
+{   margin: 30px;
+	 left: 30px;
+	 padding-bottom:10px;
+}
+
+#footer
+{ width: 1200px;
+height: 200px; 
+text-align: left;
+background-color: #FF0000;
+opacity: 0.7;
+position: absolute;
+margin-top: 1620px;
+margin-left: 130px;
+}
+
+#foota {
+
+position: absolute;
+margin-left: 80px;
+margin-top: 5px;
+word-spacing: 5px;
+width : 250px;
+	}
+#foota h4 {
+
+		color: #26d6ed;
+
+		font: normal 25px "Lucida Handwriting";
+
+}
+
+#foota .des {
+
+		color: #ffffff;
+
+		font: normal 18px "Trebuchet MS", Verdana;
+
+	}
+
+#footb {
+
+position: absolute;
+margin-left: 500px;
+margin-top: 5px;
+word-spacing: 5px;
+width : 250px;
+	}
+	
+#footb h4 {
+
+		color: #26d6ed;
+
+		font: normal 25px "Lucida Handwriting";
+
+}
+
+#footb .des {
+
+		color: #ffffff;
+
+		font: normal 18px "Trebuchet MS", Verdana;
+
+	}	
+#footc {
+
+position: absolute;
+margin-left: 900px;
+margin-top: 5px;
+word-spacing: 5px;
+width : 250px;
+	}
+	
+#footc h4 {
+
+		color: #26d6ed;
+
+		font: normal 25px "Lucida Handwriting";
+
+}
+
+#footc .desc {
+
+		color: #ffffff;
+
+		font: normal 18px "Trebuchet MS", Verdana;
+
+	}	
+#bottom_nav_bar a{ color: #ffffff; text-decoration: none; }
+#bottom_nav_bar a:hover{ color: #ed5d1a; text-decoration: none; }
+
+#disc{
+color: #000000;
+margin-top:200px;
+font: normal 10px "Trebuchet MS", Verdana;
+text-align: center;
+}
+
+#last #lft #bbox{
+margin-top:10px;
+width: 340px;
+height: 510px; 
+background-color: #D0D0D0;
+margin-left:10px;
+}
+#last #lft #bor
+{
+	background : url(rbox4.png);
+	width:300px;
+	height:250px;
+	margin-left: 20px;
+	}
+
+#last #lft #bor1
+{   
+	margin-top:-20px;
+	background : url(rbox4.png);
+	width:300px;
+	height:250px;
+	margin-left: 20px;
+	}
+	
+#top1
+{
+height:125px;
+}
+#top2
+{
+margin-top:-25px;
+height:125px;
+}
+	
+#show1
+{
+color:#ffffff;
+font: normal 20px "arial";
+}
+
+#gain
+{
+color:#00ff00;
+font: normal 20px "arial";
+}
+
+#lose
+{
+color:#ff0000;
+font: normal 20px "arial";
+}
+
